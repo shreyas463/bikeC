@@ -1,6 +1,6 @@
 // Binary Search Tree operations in C
 //NAME-SHREYAS CHAUDHARY
-//USN-1NH19CS743
+
 
 #include <stdio.h>
 #include <stdlib.h>
